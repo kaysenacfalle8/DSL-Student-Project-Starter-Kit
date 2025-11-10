@@ -1,4 +1,4 @@
-# DSL-Student-Project-Starter-Kit
+# DSL-Student-Project-Starter-Kit Python Edition
 # [Your Project Name]
 
 ### Student Name:
